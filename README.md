@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-admin-template
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# VueAdminTemplate
+ant-design-vue->adminTemplate
