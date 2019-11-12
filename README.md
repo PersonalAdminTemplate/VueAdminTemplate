@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # vue-admin-template
+```
+基于ant-design-vue的后台管理系统模板（自用）
+```
 
 ## Project setup
 ```
